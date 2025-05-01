@@ -23,6 +23,34 @@ Hospital readmissions increase costs and indicate care gaps. This project uses a
 - Predict readmission likelihood using **Logistic Regression**
 - Explain predictions using **SHAP (AI Explainability)**
 - Visualize insights in an interactive **Power BI dashboard**
+---
+##Why this Project?
+In today’s healthcare environment, reducing hospital readmissions is both a clinical necessity and a regulatory focus — tied directly to patient outcomes, reimbursement models, and operational efficiency.
+
+In this project, I analyzed over 100,000 patient records from 130 U.S. hospitals to build a data-driven framework that answers one critical question:
+
+“Which patients are most at risk of readmission — and why?”
+
+Using a combination of:
+
+📊 Demographic segmentation (age, gender, race)
+🏥 Clinical factors (diagnosis codes, inpatient/emergency visits, lab test results)
+🤖 Logistic regression modeling
+💡 SHAP explainability (AI transparency)
+I was able to not only predict readmission risk but also explain the root causes driving those predictions.
+
+✅ This mirrors how healthcare systems today need to:
+
+Identify at-risk populations
+Justify interventions based on interpretable models
+Provide dashboards for clinical and operational teams
+The insights were presented in a Power BI dashboard, making it accessible for:
+
+Clinical operations managers
+Hospital admins
+Quality & compliance teams
+🔎 Key Takeaway:
+This wasn’t just a model — it was a simulation of a real health analytics pipeline, demonstrating how data science can reduce costs, improve care continuity, and inform hospital strategy.
 
 ---
 
