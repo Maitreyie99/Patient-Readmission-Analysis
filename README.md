@@ -111,6 +111,6 @@ Built a 3-page Power BI dashboard to visually explore readmission trends, patien
    git clone https://github.com/Maitreyie99/patient-readmission-analysis.git
 2. Navigate to project folder:
   bash
-  cd patient-readmission-analysis
+  cd patient_readmission_analysis
 3. Open and run notebooks/readmission_model.ipynb to reproduce the analysis.
 4. Open dashboard/Patient_Readmission_Dashboard.pbix in Power BI Desktop to   explore the dashboard.
